@@ -14,7 +14,7 @@
 
 6、http缓存，cache-control属性
 
-7、项目优化
+7、项目优化,（nginx配置，跨域，不会。。。）
 
 8、CSS：BFC，隐藏元素，重排和重绘，flex
 
