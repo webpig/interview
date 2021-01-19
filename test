@@ -1,0 +1,48 @@
+css:
+
+BFC，布局，flex（属性）flex-grow shrink basis
+隐藏元素 重排重绘
+（浏览器渲染原理）
+css继承属性
+
+display: none
+opacity:
+
+js:
+
+原型，原型链，继承
+
+数组方法，遍历对象
+判断数组，遍历数组
+for in
+for of
+
+Event loop
+打印顺序
+promise 是什么，原理
+
+Promise 方法，属性（手写）
+.then
+all，any，race
+async await => generator
+Promise
+串行
+并发执行（限制数量）
+
+箭头函数 和 普通函数
+
+// 手写
+call apply bind
+
+数组去重，Set，Map
+
+Set数据结构原理，问你底层实现
+
+{} {}
+
+闭包，平常使用，
+
+模块，私有变量，
+
+节流，防抖
+
